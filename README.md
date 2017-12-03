@@ -48,9 +48,9 @@ Here is how I approached the development of this application
 
 ## Links to backend stories and ERD
 
-[`Stories`](https://github.com/MayoorPatil/map-rails-api/blob/master/public/images/Capstone-KArts-Stories.png)
+[`Stories`](https://github.com/MayoorPatil/mayoor-capstone-rails-api/blob/master/public/images/Capstone-KArts-Stories.png)
 
-[`ERD`](https://github.com/MayoorPatil/map-rails-api/blob/master/public/images/Capstone-KArts-ERD.png)
+[`ERD`](https://github.com/MayoorPatil/mayoor-capstone-rails-api/blob/master/public/images/Capstone-KArts-ERD.png)
 
 ## API
 
