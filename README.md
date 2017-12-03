@@ -33,6 +33,10 @@ The following tools and technologies where used to build this application
     -   Here is the link to the [`Backend Repo`](https://github.com/MayoorPatil/mayoor-capstone-rails-api)
     -   Here is the link to the [`Backend Endpoint`](https://mayoor-capstone-rails-api.herokuapp.com/)
 
+## Dependencies
+-   Install with `bundle install`
+
+
 ## Development Process
 
 Here is how I approached the development of this application
